@@ -10,8 +10,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 # Your Google API key and CSE ID
-GOOGLE_API_KEY = 'AIzaSyAatmdgQYnNARCgB8K6VFN6px_JaJ0vnOY'
-SEARCH_ENGINE_ID = '739ac959c426c4f5f'
+GOOGLE_API_KEY = 
+SEARCH_ENGINE_ID = 
 
 
 @csrf_exempt
